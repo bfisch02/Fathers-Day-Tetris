@@ -1,0 +1,8 @@
+#gameboard, #startPage {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    border: 2px solid black;
+    border-left: 3px solid black;
+}
